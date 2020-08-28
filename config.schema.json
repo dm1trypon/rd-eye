@@ -1,0 +1,13 @@
+{
+    "title": "Config",
+    "type": "object",
+    "properties": {
+        "udp_path": {
+            "type": "string"
+        },
+        "fps": {
+            "type": "number"
+        }
+    },
+    "required": ["udp_path", "fps"]
+}
