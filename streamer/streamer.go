@@ -13,7 +13,7 @@ const (
 	// LC - logging category
 	LC = "STREAMER"
 	// MAXSIZE - max size of bytes message
-	MAXSIZE = 2048
+	MAXSIZE = 2500
 	// CONNTYPE - type of server's protocol
 	CONNTYPE = "udp"
 )

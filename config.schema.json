@@ -7,7 +7,10 @@
         },
         "fps": {
             "type": "number"
+        },
+        "max_buf_size": {
+            "type": "number"
         }
     },
-    "required": ["udp_path", "fps"]
+    "required": ["udp_path", "fps", "max_buf_size"]
 }
